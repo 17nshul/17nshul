@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @17nshul
 - 👀 I’m interested in WebDev, Android App Developement and Machine Learning
-- 🌱 I’m currently learning C/C++,Python,Kotlin
+- 🌱 I’m currently learning C/C++, React.js
 - 💞️ I’m looking to collaborate on anything interesting.
 - 📫 How to reach me:  17nshul@gmail.com      
 <!---
